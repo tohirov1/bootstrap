@@ -1,0 +1,9 @@
+.item {
+    max-width: 400px;
+    width: 100%;
+    transition: 0.3s linear;
+}
+
+.item:hover {
+    transform: scale(1.2);
+}
